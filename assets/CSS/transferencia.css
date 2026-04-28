@@ -1,0 +1,10 @@
+.transferencia-card {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+    color: black;
+}
+
+#mensagem {
+    font-weight: bold;
+}
